@@ -74,3 +74,7 @@ code {
   background-color: #313131;
   border-radius: 4px;
 }
+
+.table-striped > tbody > tr:nth-of-type(2n+1) {
+    background-color: #1e1e1e;
+}
