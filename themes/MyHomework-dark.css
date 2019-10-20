@@ -4,35 +4,32 @@
 
   use on: https://myhomeworkapp.com/
 */
-
-@-moz-document domain("myhomeworkapp.com") {
 /*
  * Made by Richard Zhu
 */
 .centered-layout {
-    background-color: #212020 !important;
+  background-color: #212020 !important;
 }
 
-.centered-layout .centered-content > section {
-    background-color: #454545 !important;
-    border: 1px solid #000 !important;
+.centered-layout .centered-content>section {
+  background-color: #454545 !important;
+  border: 1px solid #000 !important;
 }
 
 footer {
-
-    background-color: #211f1f !important;
+  background-color: #211f1f !important;
 }
 
 body {
-    color: #cbcbcb !important;
+  color: #cbcbcb !important;
 }
 
 .box {
-    background-color: #171717 !important;
+  background-color: #171717 !important;
 }
 
 .box .box-title {
-    background: #110f0f !important;
+  background: #110f0f !important;
 }
 
 h1,
@@ -47,58 +44,61 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color: #f3f3f3 !important;
+  color: #f3f3f3 !important;
 }
 
 .icon {
-
-    color: #fff !important;
+  color: #fff !important;
 }
 
 .box .box-content li.filters-row {
-    background-color: #131313 !important;
+  background-color: #131313 !important;
 }
 
-.box ul.box-content > li,
-.box ol.box-content > li {
-    border-top: 1px solid #080808 !important;
-    background-color: #2c2c2c !important;
+.box ul.box-content>li,
+.box ol.box-content>li {
+  border-top: 1px solid #080808 !important;
+  background-color: #2c2c2c !important;
 }
 
 .box ul.box-content li.group-row,
 .box ol.box-content li.group-row {
-    background-color: #131313 !important;
-    color: #fefefe !important;
+  background-color: #131313 !important;
+  color: #fefefe !important;
 }
 
 a {
-    color: #fff !important;
+  color: #fff !important;
 }
 
 .filters a {
-    background-color: gray !important;
+  background-color: gray !important;
 }
 
 .filters li.sel a {
-    background-color: #202020 !important;
+  background-color: #202020 !important;
 }
 
-
 .homework-list .h-actions {
-    background: #2c2c2c !important;
+  background: #2c2c2c !important;
 }
 
 body {
-    color: #adadad !important;
-    background-color: black !important;
-    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/15/56/675822d6fc95042.jpg) !important;
+  color: #adadad !important;
+  background-color: black !important;
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/15/56/675822d6fc95042.jpg) !important;
 }
 
 .lightbox-header {
-    background: #020202 !important;
+  background: #020202 !important;
 }
 
 .lightbox {
-    background-color: #121212 !important;
+  background-color: #121212 !important;
 }
+
+.box .empty-box-content {
+  background-color: #171717;
+  border-bottom: 1px solid #e3e3e3;
+  zoom: 1;
 }
