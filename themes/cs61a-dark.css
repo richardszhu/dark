@@ -1,0 +1,99 @@
+/* 
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ * 
+ * Use on:cs61a.org
+*/
+
+
+body {
+    color: #cbcbcb;
+    background-color: #1e1e1e;
+
+}
+
+table#calendar tr:not(:first-child) {
+
+    background-color: #c1d6e3;
+    background-color: #1e1e1e;
+
+}
+
+table#calendar td.even {
+
+    background-color: #1e1e1e;
+
+}
+
+table#calendar td {
+
+    border: 1px solid #353535;
+    padding: 6px;
+    vertical-align: middle;
+
+}
+
+table#calendar tr:hover td:not(.weeknum) {
+  background-color: #242424;
+}
+
+.due {
+    background-color: #323333;
+    color: #cbcbcb;
+    vertical-align: top;
+}
+
+.btn-outline {
+  background-color: #1e1e1e;
+}
+
+blockquote {
+
+    background-color: #1e1e1e;
+    border-left: solid #0072c1;
+    font-size: inherit;
+
+}
+
+.sidebar li {
+
+    background-color: #1e1e1e !important;
+
+}
+
+.sidebar li > a {
+
+    background-color: #1e1e1e !important;
+
+}
+
+.hljs, .hljs-list .hljs-built_in {
+
+    color: #fff;
+
+}
+
+.hljs-string, .hljs-title, .hljs-parent, .hljs-built_in, .hljs-literal, .hljs-filename, .hljs-value, .hljs-addition, .hljs-tag, .hljs-argument, .hljs-link_label, .hljs-blockquote, .hljs-header, .hljs-name {
+
+    color: #55b8e3;
+
+}
+
+pre {
+
+    
+    color: #fff;
+  
+    background-color: #000;
+    border: 1px solid #003a62;
+    border-radius: 4px;
+
+}
+
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #3bb3e8;
+    background-color: #313131;
+    border-radius: 4px;
+}
