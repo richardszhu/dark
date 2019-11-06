@@ -75,6 +75,11 @@ code {
   border-radius: 4px;
 }
 
-.table-striped > tbody > tr:nth-of-type(2n+1) {
-    background-color: #1e1e1e;
+.table-striped>tbody>tr:nth-of-type(2n+1) {
+  background-color: #1e1e1e;
+}
+
+::selection {
+    background:
+    #eee31045;
 }
