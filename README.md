@@ -1,6 +1,6 @@
 # stylish-themes
 A collection of custom CSS themes for altering the appearance of websites, utilizing the Stylish browser extension.
-These are mostly built to "Dark Mode" websites that don't have built in dark modes.
+These are mostly built to "Dark Mode" websites, in order to protect users from eye strain
 
 TO USE:
 Install the Stylish Browser Extension
