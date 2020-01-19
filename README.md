@@ -1,4 +1,4 @@
-# dark pka stylish-themes
+# dark
 A collection of custom CSS themes for altering the appearance of websites, utilizing the Stylish browser extension.
 These are mostly built to "Dark Mode" websites, in order to protect users from eye strain
 
