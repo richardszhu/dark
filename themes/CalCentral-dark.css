@@ -19,6 +19,10 @@ blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, t
     color: #cbcbcb;
 }
 
+.cc-navigation-bar {
+    background-color:#1e1e1e;
+}
+
 .cc-widget-title {
     background:    #303237;
 }
@@ -46,6 +50,9 @@ widget-list-hover:hover, .cc-widget-list .cc-widget-list-link:focus, .cc-widget-
 
 h1, h2, h3, h4, h5, h6 {
     color:   #cbcbcb;
+}
+body .cc-masthead {
+  background:  #1e1e1e;
 }
 
 body footer {
