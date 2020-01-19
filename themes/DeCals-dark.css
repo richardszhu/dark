@@ -29,3 +29,7 @@ table.highlight > tbody > tr:hover {
     background-color: #313131;
 
 }
+
+.dropdown-content li > a, .dropdown-content li > span {
+    color:   #222221;
+}
