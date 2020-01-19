@@ -58,6 +58,10 @@ body .cc-masthead {
 body footer {
     background:  #1e1e1e;
 }
+.cc-widget-activities .cc-widget-activities-list > li {
+    border-bottom: 1px solid #646464;
+}
+
 
 
 
