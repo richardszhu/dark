@@ -1,0 +1,196 @@
+/*
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ *
+ * Use on: https://calcentral.berkeley.edu/
+*/
+
+
+
+/* My Dashboard Tab */
+
+
+body {
+  color: #cbcbcb;
+}
+
+blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, th, ul {
+    background-color:  #1e1e1e;
+    color: #cbcbcb;
+}
+
+.cc-widget-title {
+    background:    #303237;
+}
+
+.cc-widget-title h2 {
+    color: #fbbc00;
+}
+
+.cc-widget {
+    background: #1e1e1e;
+}
+
+widget-list-hover:hover, .cc-widget-list .cc-widget-list-link:focus, .cc-widget-list .cc-widget-list-link:hover, .cc-widget-list > li > a:focus, .cc-widget-list > li > a:hover, .cc-widget-table-hover:focus, .cc-widget-table-hover:hover {
+    background:  #313131;
+}
+
+.cc-react-widget__title .cc-react-widget__title-text {
+    color: 
+    #fbbc00;
+}
+
+.cc-react-widget__title {
+     background: #393737;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:   #cbcbcb;
+}
+
+body footer {
+    background:  #1e1e1e;
+}
+
+
+
+/* My Academics Tab */
+
+.cc-page-academics .cc-academics-semester > div {
+    border: 1px solid #2b2b2b;
+}
+
+.StudentProfileCard > header {
+    background-color: #1e1e1e;
+}
+
+.cc-heading-page-title {
+
+    color: #fbbc00;
+}
+
+.StudentProfileCard > header h2 {
+    color: #fbbc00;
+}
+
+.cc-page-academics .cc-academics-semester-current > div {
+    background:  #1d2d22;
+}
+
+table {
+    background: #2d2d2d;
+}
+
+table tr.alt, table tr.even, table tr:nth-of-type(2n) {
+    background:  #2d2d2d;
+
+}
+
+table.student-profile tr td, table.student-profile tr th {
+    border-bottom: 1px solid  #646464;
+
+}
+
+table.student-profile tr td, table.student-profile tr th {
+
+    background:  #1e1e1e;
+}
+
+table.student-profile tr td {
+    color:  #E1E1E1;
+}
+
+table.student-profile tr th {
+    color: #cbcbcb;
+}
+
+table.student-profile table.student-profile__subtable tr td, table.student-profile table.student-profile__subtable tr th {
+    background:  #1e1e1e;
+}
+
+table.student-profile table.student-profile__subtable tr th {
+    color:     #cbcbcb;
+}
+
+table.student-profile table.student-profile__subtable tr td {
+    color:     #999;
+}
+
+.cc-table table tr td, .cc-table table tr th {
+    color:#cbcbcb;
+}
+
+.cc-page-academics h2 {
+    color:  #fbbc00;
+}
+
+.cc-page-academics h3, .cc-page-academics h4 {
+    color:  #cbcbcb;
+}
+
+.cc-enrollment-card .cc-enrollment-card-text-tabs-container .cc-enrollment-card-text-tabs-active {
+    color:    #E1E1E1;
+}
+
+.cc-widget-list-border-top > li:first-child {
+    border-top: 1px solid     #646464;
+}
+
+.cc-widget-list > li {
+    border-bottom: 1px solid    #646464;
+}
+.cc-widget-list-hover:focus, .cc-widget-list-hover:hover, .cc-widget-list .cc-widget-list-link:focus, .cc-widget-list .cc-widget-list-link:hover, .cc-widget-list > li > a:focus, .cc-widget-list > li > a:hover, .cc-widget-table-hover:focus, .cc-widget-table-hover:hover {
+    background-color: #1e1e1e;
+}
+.DisclosureItem {
+    border-bottom: 1px solid #646464;
+}
+cc-status-holds .cc-status-holds-list > li:last-child {
+    border-bottom: 1px solid   #646464;
+}
+
+.StatusItem {
+    border-bottom: 1px solid  #646464;
+}
+.DisclosureItem:focus, .DisclosureItem:hover {
+    background:  #313131;
+}
+.cc-react-button[disabled], .cc-react-button[disabled]:focus, .cc-react-button[disabled]:hover {
+color:   #1e1e1e;
+}
+
+
+
+
+
+
+
+/* My Finances Tab */
+.summary-section {
+    background-color: #1e1e1e;
+}
+
+.cc-react-table table tr td, .cc-react-table table tr th {
+    color: #cbcbcb;
+}
+
+.cc-widget-finaid-summary .cc-widget-finaid-summary-netcost-summary {
+    background-color: #1e1e1e;
+    border: 1px solid #1e1e1e;
+}
+
+.higher-one {
+    border-bottom: 1px solid  #646464;
+}
+
+.cc-widget-finaid-summary .cc-widget-finaid-summary-netcost-summary table tr td, .cc-widget-finaid-summary .cc-widget-finaid-summary-netcost-summary table tr th {
+    color:  #cbcbcb;
+}
+
+.FinancialResources__categoryContainer:hover {
+    background-color:   #313131;
+}
+
+.FinancialResources__categoryContainer {
+border-bottom: 1px solid  #646464;
+}
