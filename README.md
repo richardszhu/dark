@@ -9,4 +9,4 @@ https://addons.mozilla.org/en-US/firefox/addon/stylish/
 
 https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe//Aqui
 
-Pick a theme and add it to Stylish.
+Pick a theme and load it into Stylish.
