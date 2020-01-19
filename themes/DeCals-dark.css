@@ -1,0 +1,31 @@
+/*
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ *
+ * Use on: https://decal.berkeley.edu/courses
+*/
+
+body {
+  color: #cbcbcb;
+  background-color: #1e1e1e;
+}
+
+table.striped > tbody > tr:nth-child(2n+1) {
+    background-color: 
+    #171616;
+}
+
+table.highlight > tbody > tr:hover {
+  background-color: #2d2d2d;
+}
+
+.btn:hover, .btn-large:hover {
+
+    background-color: #2d2d2d;
+
+}
+
+.btn, .btn-large {
+    background-color: #313131;
+
+}
