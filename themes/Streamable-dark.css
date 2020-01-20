@@ -1,0 +1,38 @@
+/*
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ *
+ * Use on: streamable.com/
+*/
+html, body {
+  background-color:   #1b1b1b;
+}
+
+.box {
+  background-color: #2d2d2d;
+}
+
+#player.container .visits-button {
+  color: 
+  #cbcbcb;
+}
+
+#player.container .visits-button:hover {
+  color: 
+  #666;
+}
+
+#player.container #title {
+  color: 
+  #cbcbcb;
+}
+
+#player.container .actions-section {
+  background-color: 
+  #1d4c6f;
+}
+
+#player.container #video-footer {
+  border-bottom: 0px solid 
+  #eee;
+}
