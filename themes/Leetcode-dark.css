@@ -27,25 +27,25 @@ body {
 
 /*found this by clicking the light grey css file thingy*/
 .question-list-table tbody.reactable-data tr:hover {
-  background:#2d2d2d !important
-  }
-  
-  .question-list-base .reactable-pagination tr {
-    background:  #1e1e1e !important;
-  }
-  
-  .form-control::placeholder {
-    color: #cbcbcb;
-  }
-  
-  .form-control {
-    background-color:#333;
-  }
-  
-  .form-control, .form input {
-    border: 1px solid  #000;
-  }
-  
+background:#2d2d2d !important
+}
+
+.question-list-base .reactable-pagination tr {
+  background:  #1e1e1e !important;
+}
+
+.form-control::placeholder {
+  color: #cbcbcb;
+}
+
+.form-control {
+  background-color:#333;
+}
+
+.form-control, .form input {
+  border: 1px solid  #000;
+}
+
 .separator-op, .separator_left_mask, .separator_right_mask {
   border-bottom: 1px solid #1e1e1e;
   background: #1e1e1e;
@@ -57,4 +57,69 @@ hr {
 
 .card-sp {
   border-color:  #1e1e1e;
+}
+
+.progress-panel-base > ul > li:nth-of-type(2n+1) {
+  background:     #2d2d2d;
+}
+
+.list-group-item {
+  background-color:  #2d2d2d;
+}
+
+.progress-panel-base > ul li.list-group-item.points-info .info-value {
+  color:  #cbcbcb;
+}
+
+#list-card-app .list-group-item:hover {
+  background:  #444 !important;
+}
+
+.btn-default {
+  color:#cbcbcb;
+  background-color: #000;
+}
+
+.btn.btn-default, .btn.btn-default:active, .btn.btn-default:active:focus, .btn.btn-default:focus {
+  border: 1px solid  #000;
+}
+
+.progress-panel-base .session-manager-btn .btn {
+  background:black !important;
+  border: 1px solid #2d2d2d !important;
+}
+
+.btn-default:hover {
+  background-color:#444;
+  border-color: #444;
+}
+
+.text-gray {
+  color:   #cbcbcb !important;
+}
+
+.form-control {
+  color:   #cbcbcb;
+}
+
+.reactable-pagination a {
+color: #388dd7;
+background-color: #333;
+}
+
+.question-list-table tbody a:hover {
+  color:  #48c1ff;
+}
+
+.reactable-pagination a:hover {
+  background-color:  #444;
+}
+
+.sidebar-module .show-more-btn > div {
+  color: #cbcbcb;
+}
+
+.sidebar-module .show-more-btn > div {
+  color: #cbcbcb;
+  border-color:   #000;
 }
