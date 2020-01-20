@@ -1,0 +1,43 @@
+/*
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ *
+ * Use on: https://inst.eecs.berkeley.edu/~ee16b/sp20/
+*/
+.main-container, .navbar-container {
+  background-color:  #1e1e1e;
+}
+
+body {
+  color: #cbcbcb;
+}
+
+.navbar-default .navbar-brand {
+  color:  #cbcbcb;
+}
+
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+ border: 1px solid  #444;
+}
+
+.table-striped tbody tr:nth-of-type(4n+1), tr:nth-of-type(4n) {
+
+  background-color:  #2d2d2d !important;
+
+}
+
+.table-striped tbody tr:nth-of-type(4n+2), tr:nth-of-type(4n+3) {
+
+  background-color:  #2d2d2d !important;
+
+}
+
+.table > tbody + tbody {
+
+  border-top: 2px solid    #777;
+
+}
+
+a {
+color: #1f9cc1;
+}
