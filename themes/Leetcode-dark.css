@@ -1,0 +1,60 @@
+/*
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ *
+ * Use on: https://leetcode.com/problemset/all/
+    
+An extension to this existing style, to incorporate the problemset page:
+https://userstyles.org/styles/166630/leetcode-dark-only-for-problems
+
+*/
+body {
+  color: #cbcbcb;
+  background-color:#1e1e1e;
+}
+
+.progress-panel-base {
+  color:   #cbcbcb;
+}
+
+.question-list-table tbody {
+  color:  #cbcbcb;
+}
+
+.question-list-table tbody tr:nth-of-type(2n+1) {
+  background:  #222;
+}
+
+/*found this by clicking the light grey css file thingy*/
+.question-list-table tbody.reactable-data tr:hover {
+  background:#2d2d2d !important
+  }
+  
+  .question-list-base .reactable-pagination tr {
+    background:  #1e1e1e !important;
+  }
+  
+  .form-control::placeholder {
+    color: #cbcbcb;
+  }
+  
+  .form-control {
+    background-color:#333;
+  }
+  
+  .form-control, .form input {
+    border: 1px solid  #000;
+  }
+  
+.separator-op, .separator_left_mask, .separator_right_mask {
+  border-bottom: 1px solid #1e1e1e;
+  background: #1e1e1e;
+}
+
+hr {
+  border-top: 1px solid   #1e1e1e;
+}
+
+.card-sp {
+  border-color:  #1e1e1e;
+}
