@@ -1,0 +1,35 @@
+/*
+ * Made by Richard Zhu, UC Berkeley c/o 2023
+ * github.com/richardszhu
+ *
+ * Use on: auth.berkeley.edu
+*/
+
+body {
+  background: 
+  #131d42 url('tesselation-top-right.png') no-repeat fixed top right;
+}
+
+.wrapper {
+  background: 
+#131212;
+}
+
+body {
+  color: 
+  #cbcbcb;
+}
+
+a, a:link, a:visited {
+  color: 
+  #51A9D7;
+}
+
+.copyright {
+
+  text-align: left;
+  color: 
+
+  #cbcbcb;
+
+}
