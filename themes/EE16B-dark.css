@@ -10,6 +10,7 @@
 
 body {
   color: #cbcbcb;
+  background: #1e1e1e
 }
 
 .navbar-default .navbar-brand {
@@ -40,4 +41,9 @@ body {
 
 a {
 color: #1f9cc1;
+}
+
+.contact-form__label {
+  color: 
+  #cbcbcb;
 }
