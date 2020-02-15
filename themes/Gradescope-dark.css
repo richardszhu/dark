@@ -114,3 +114,46 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     border: solid 0px #e1e5eb;
     background-color:#2d2d2d;
 }
+
+.selectPagesQuestionOutline--list {
+    margin-bottom: -1px;
+    background: 
+    #000;
+}
+
+.selectPagesQuestionOutline--item-selected, .selectPagesQuestionOutline--item-selected:focus, .selectPagesQuestionOutline--item-selected:hover {
+    border-left-color: 
+#36e6df;
+background-color:
+#222;
+color:
+    #1b807c;
+}
+
+.selectPages--pages {
+background-color:
+    #1e1e1e;
+}
+
+.selectPagesQuestionOutline--item:hover {
+    background-color: 
+    #333;
+}
+
+.modal {
+    background-color: 
+    #000;
+}
+
+.modal--footer-closeButton:hover {
+    background-color: #222;
+}
+
+.modal--footer-closeButton {
+    background-color: #333;
+}
+
+.autograderResults--topLevelOutput {
+background-color:
+    #000;
+}
